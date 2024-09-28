@@ -1,0 +1,17 @@
+# Virtual environments
+photo_ia/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+
+Trainer.yml
+
+
+datasets/
